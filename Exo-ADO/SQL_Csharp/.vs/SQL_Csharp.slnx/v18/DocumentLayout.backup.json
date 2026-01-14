@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrateur\\Exercices\\Exo C#\\SQL_Csharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:2:0:{BE11C47A-77DD-40BA-A869-D45126BA8FEE}|SQL_Csharp\\SQL_Csharp.csproj|c:\\users\\administrateur\\exercices\\exo c#\\sql_csharp\\sql_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{BE11C47A-77DD-40BA-A869-D45126BA8FEE}|SQL_Csharp\\SQL_Csharp.csproj|solutionrelative:sql_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{BE11C47A-77DD-40BA-A869-D45126BA8FEE}|SQL_Csharp\\SQL_Csharp.csproj|c:\\users\\administrateur\\exercices\\exo c#\\sql_csharp\\sql_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{BE11C47A-77DD-40BA-A869-D45126BA8FEE}|SQL_Csharp\\SQL_Csharp.csproj|solutionrelative:sql_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE11C47A-77DD-40BA-A869-D45126BA8FEE}|SQL_Csharp\\SQL_Csharp.csproj|c:\\users\\administrateur\\exercices\\exo c#\\sql_csharp\\sql_csharp\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE11C47A-77DD-40BA-A869-D45126BA8FEE}|SQL_Csharp\\SQL_Csharp.csproj|solutionrelative:sql_csharp\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Exercices\\Exo C#\\SQL_Csharp\\SQL_Csharp\\Program.cs",
+              "RelativeDocumentMoniker": "SQL_Csharp\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Exercices\\Exo C#\\SQL_Csharp\\SQL_Csharp\\Program.cs",
+              "RelativeToolTip": "SQL_Csharp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T12:42:23.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Personne.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Exercices\\Exo C#\\SQL_Csharp\\SQL_Csharp\\Personne.cs",
+              "RelativeDocumentMoniker": "SQL_Csharp\\Personne.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Exercices\\Exo C#\\SQL_Csharp\\SQL_Csharp\\Personne.cs",
+              "RelativeToolTip": "SQL_Csharp\\Personne.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA5wCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T09:30:13.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Exercices\\Exo C#\\SQL_Csharp\\SQL_Csharp\\Program.cs",
+              "RelativeDocumentMoniker": "SQL_Csharp\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Exercices\\Exo C#\\SQL_Csharp\\SQL_Csharp\\Program.cs",
+              "RelativeToolTip": "SQL_Csharp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T09:28:07.884Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
