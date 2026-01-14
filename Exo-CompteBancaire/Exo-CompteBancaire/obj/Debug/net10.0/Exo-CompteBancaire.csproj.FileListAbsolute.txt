@@ -1,0 +1,15 @@
+C:\Users\Administrateur\Exercices\Exo C#\Exo-CompteBancaire\Exo-CompteBancaire\obj\Debug\net10.0\Exo-CompteBancaire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Exercices\Exo C#\Exo-CompteBancaire\Exo-CompteBancaire\obj\Debug\net10.0\Exo-CompteBancaire.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Exercices\Exo C#\Exo-CompteBancaire\Exo-CompteBancaire\obj\Debug\net10.0\Exo-CompteBancaire.AssemblyInfo.cs
+C:\Users\Administrateur\Exercices\Exo C#\Exo-CompteBancaire\Exo-CompteBancaire\obj\Debug\net10.0\Exo-CompteBancaire.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Exercices\Exo C#\Exo-CompteBancaire\Exo-CompteBancaire\obj\Debug\net10.0\Exo-CompteBancaire.sourcelink.json
+C:\Users\Administrateur\Exercices\Exo C#\Exo-CompteBancaire\Exo-CompteBancaire\bin\Debug\net10.0\Exo-CompteBancaire.exe
+C:\Users\Administrateur\Exercices\Exo C#\Exo-CompteBancaire\Exo-CompteBancaire\bin\Debug\net10.0\Exo-CompteBancaire.deps.json
+C:\Users\Administrateur\Exercices\Exo C#\Exo-CompteBancaire\Exo-CompteBancaire\bin\Debug\net10.0\Exo-CompteBancaire.runtimeconfig.json
+C:\Users\Administrateur\Exercices\Exo C#\Exo-CompteBancaire\Exo-CompteBancaire\bin\Debug\net10.0\Exo-CompteBancaire.dll
+C:\Users\Administrateur\Exercices\Exo C#\Exo-CompteBancaire\Exo-CompteBancaire\bin\Debug\net10.0\Exo-CompteBancaire.pdb
+C:\Users\Administrateur\Exercices\Exo C#\Exo-CompteBancaire\Exo-CompteBancaire\obj\Debug\net10.0\Exo-CompteBancaire.dll
+C:\Users\Administrateur\Exercices\Exo C#\Exo-CompteBancaire\Exo-CompteBancaire\obj\Debug\net10.0\refint\Exo-CompteBancaire.dll
+C:\Users\Administrateur\Exercices\Exo C#\Exo-CompteBancaire\Exo-CompteBancaire\obj\Debug\net10.0\Exo-CompteBancaire.pdb
+C:\Users\Administrateur\Exercices\Exo C#\Exo-CompteBancaire\Exo-CompteBancaire\obj\Debug\net10.0\Exo-CompteBancaire.genruntimeconfig.cache
+C:\Users\Administrateur\Exercices\Exo C#\Exo-CompteBancaire\Exo-CompteBancaire\obj\Debug\net10.0\ref\Exo-CompteBancaire.dll

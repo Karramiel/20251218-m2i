@@ -1,0 +1,15 @@
+C:\Users\Administrateur\Exercices\Exo C#\Exo-Exception01\Exo-Exception01\bin\Debug\net10.0\Exo-Exception01.exe
+C:\Users\Administrateur\Exercices\Exo C#\Exo-Exception01\Exo-Exception01\bin\Debug\net10.0\Exo-Exception01.deps.json
+C:\Users\Administrateur\Exercices\Exo C#\Exo-Exception01\Exo-Exception01\bin\Debug\net10.0\Exo-Exception01.runtimeconfig.json
+C:\Users\Administrateur\Exercices\Exo C#\Exo-Exception01\Exo-Exception01\bin\Debug\net10.0\Exo-Exception01.dll
+C:\Users\Administrateur\Exercices\Exo C#\Exo-Exception01\Exo-Exception01\bin\Debug\net10.0\Exo-Exception01.pdb
+C:\Users\Administrateur\Exercices\Exo C#\Exo-Exception01\Exo-Exception01\obj\Debug\net10.0\Exo-Exception01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Exercices\Exo C#\Exo-Exception01\Exo-Exception01\obj\Debug\net10.0\Exo-Exception01.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Exercices\Exo C#\Exo-Exception01\Exo-Exception01\obj\Debug\net10.0\Exo-Exception01.AssemblyInfo.cs
+C:\Users\Administrateur\Exercices\Exo C#\Exo-Exception01\Exo-Exception01\obj\Debug\net10.0\Exo-Exception01.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Exercices\Exo C#\Exo-Exception01\Exo-Exception01\obj\Debug\net10.0\Exo-Exception01.sourcelink.json
+C:\Users\Administrateur\Exercices\Exo C#\Exo-Exception01\Exo-Exception01\obj\Debug\net10.0\Exo-Exception01.dll
+C:\Users\Administrateur\Exercices\Exo C#\Exo-Exception01\Exo-Exception01\obj\Debug\net10.0\refint\Exo-Exception01.dll
+C:\Users\Administrateur\Exercices\Exo C#\Exo-Exception01\Exo-Exception01\obj\Debug\net10.0\Exo-Exception01.pdb
+C:\Users\Administrateur\Exercices\Exo C#\Exo-Exception01\Exo-Exception01\obj\Debug\net10.0\Exo-Exception01.genruntimeconfig.cache
+C:\Users\Administrateur\Exercices\Exo C#\Exo-Exception01\Exo-Exception01\obj\Debug\net10.0\ref\Exo-Exception01.dll

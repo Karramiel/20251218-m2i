@@ -1,0 +1,15 @@
+C:\Users\Administrateur\Exercices\Exo C#\Exo-Heritage\Exo-Heritage\obj\Debug\net10.0\Exo-Heritage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Exercices\Exo C#\Exo-Heritage\Exo-Heritage\obj\Debug\net10.0\Exo-Heritage.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Exercices\Exo C#\Exo-Heritage\Exo-Heritage\obj\Debug\net10.0\Exo-Heritage.AssemblyInfo.cs
+C:\Users\Administrateur\Exercices\Exo C#\Exo-Heritage\Exo-Heritage\obj\Debug\net10.0\Exo-Heritage.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Exercices\Exo C#\Exo-Heritage\Exo-Heritage\obj\Debug\net10.0\Exo-Heritage.sourcelink.json
+C:\Users\Administrateur\Exercices\Exo C#\Exo-Heritage\Exo-Heritage\bin\Debug\net10.0\Exo-Heritage.exe
+C:\Users\Administrateur\Exercices\Exo C#\Exo-Heritage\Exo-Heritage\bin\Debug\net10.0\Exo-Heritage.deps.json
+C:\Users\Administrateur\Exercices\Exo C#\Exo-Heritage\Exo-Heritage\bin\Debug\net10.0\Exo-Heritage.runtimeconfig.json
+C:\Users\Administrateur\Exercices\Exo C#\Exo-Heritage\Exo-Heritage\bin\Debug\net10.0\Exo-Heritage.dll
+C:\Users\Administrateur\Exercices\Exo C#\Exo-Heritage\Exo-Heritage\bin\Debug\net10.0\Exo-Heritage.pdb
+C:\Users\Administrateur\Exercices\Exo C#\Exo-Heritage\Exo-Heritage\obj\Debug\net10.0\Exo-Heritage.dll
+C:\Users\Administrateur\Exercices\Exo C#\Exo-Heritage\Exo-Heritage\obj\Debug\net10.0\refint\Exo-Heritage.dll
+C:\Users\Administrateur\Exercices\Exo C#\Exo-Heritage\Exo-Heritage\obj\Debug\net10.0\Exo-Heritage.pdb
+C:\Users\Administrateur\Exercices\Exo C#\Exo-Heritage\Exo-Heritage\obj\Debug\net10.0\Exo-Heritage.genruntimeconfig.cache
+C:\Users\Administrateur\Exercices\Exo C#\Exo-Heritage\Exo-Heritage\obj\Debug\net10.0\ref\Exo-Heritage.dll

@@ -1,0 +1,15 @@
+C:\Users\Administrateur\Exercices\Exo C#\Exo-GestionPaiements\Exo-GestionPaiements\bin\Debug\net10.0\Exo-GestionPaiements.exe
+C:\Users\Administrateur\Exercices\Exo C#\Exo-GestionPaiements\Exo-GestionPaiements\bin\Debug\net10.0\Exo-GestionPaiements.deps.json
+C:\Users\Administrateur\Exercices\Exo C#\Exo-GestionPaiements\Exo-GestionPaiements\bin\Debug\net10.0\Exo-GestionPaiements.runtimeconfig.json
+C:\Users\Administrateur\Exercices\Exo C#\Exo-GestionPaiements\Exo-GestionPaiements\bin\Debug\net10.0\Exo-GestionPaiements.dll
+C:\Users\Administrateur\Exercices\Exo C#\Exo-GestionPaiements\Exo-GestionPaiements\bin\Debug\net10.0\Exo-GestionPaiements.pdb
+C:\Users\Administrateur\Exercices\Exo C#\Exo-GestionPaiements\Exo-GestionPaiements\obj\Debug\net10.0\Exo-GestionPaiements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Exercices\Exo C#\Exo-GestionPaiements\Exo-GestionPaiements\obj\Debug\net10.0\Exo-GestionPaiements.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Exercices\Exo C#\Exo-GestionPaiements\Exo-GestionPaiements\obj\Debug\net10.0\Exo-GestionPaiements.AssemblyInfo.cs
+C:\Users\Administrateur\Exercices\Exo C#\Exo-GestionPaiements\Exo-GestionPaiements\obj\Debug\net10.0\Exo-GestionPaiements.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Exercices\Exo C#\Exo-GestionPaiements\Exo-GestionPaiements\obj\Debug\net10.0\Exo-GestionPaiements.sourcelink.json
+C:\Users\Administrateur\Exercices\Exo C#\Exo-GestionPaiements\Exo-GestionPaiements\obj\Debug\net10.0\Exo-GestionPaiements.dll
+C:\Users\Administrateur\Exercices\Exo C#\Exo-GestionPaiements\Exo-GestionPaiements\obj\Debug\net10.0\refint\Exo-GestionPaiements.dll
+C:\Users\Administrateur\Exercices\Exo C#\Exo-GestionPaiements\Exo-GestionPaiements\obj\Debug\net10.0\Exo-GestionPaiements.pdb
+C:\Users\Administrateur\Exercices\Exo C#\Exo-GestionPaiements\Exo-GestionPaiements\obj\Debug\net10.0\Exo-GestionPaiements.genruntimeconfig.cache
+C:\Users\Administrateur\Exercices\Exo C#\Exo-GestionPaiements\Exo-GestionPaiements\obj\Debug\net10.0\ref\Exo-GestionPaiements.dll

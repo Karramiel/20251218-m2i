@@ -1,0 +1,15 @@
+C:\Users\Administrateur\Exercices\Exo C#\Exercice 4 - Fonctions\Exercice 4 - Fonctions\bin\Debug\net10.0\Exercice 4 - Fonctions.exe
+C:\Users\Administrateur\Exercices\Exo C#\Exercice 4 - Fonctions\Exercice 4 - Fonctions\bin\Debug\net10.0\Exercice 4 - Fonctions.deps.json
+C:\Users\Administrateur\Exercices\Exo C#\Exercice 4 - Fonctions\Exercice 4 - Fonctions\bin\Debug\net10.0\Exercice 4 - Fonctions.runtimeconfig.json
+C:\Users\Administrateur\Exercices\Exo C#\Exercice 4 - Fonctions\Exercice 4 - Fonctions\bin\Debug\net10.0\Exercice 4 - Fonctions.dll
+C:\Users\Administrateur\Exercices\Exo C#\Exercice 4 - Fonctions\Exercice 4 - Fonctions\bin\Debug\net10.0\Exercice 4 - Fonctions.pdb
+C:\Users\Administrateur\Exercices\Exo C#\Exercice 4 - Fonctions\Exercice 4 - Fonctions\obj\Debug\net10.0\Exercice 4 - Fonctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Exercices\Exo C#\Exercice 4 - Fonctions\Exercice 4 - Fonctions\obj\Debug\net10.0\Exercice 4 - Fonctions.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Exercices\Exo C#\Exercice 4 - Fonctions\Exercice 4 - Fonctions\obj\Debug\net10.0\Exercice 4 - Fonctions.AssemblyInfo.cs
+C:\Users\Administrateur\Exercices\Exo C#\Exercice 4 - Fonctions\Exercice 4 - Fonctions\obj\Debug\net10.0\Exercice 4 - Fonctions.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Exercices\Exo C#\Exercice 4 - Fonctions\Exercice 4 - Fonctions\obj\Debug\net10.0\Exercice 4 - Fonctions.sourcelink.json
+C:\Users\Administrateur\Exercices\Exo C#\Exercice 4 - Fonctions\Exercice 4 - Fonctions\obj\Debug\net10.0\Exercice 4 - Fonctions.dll
+C:\Users\Administrateur\Exercices\Exo C#\Exercice 4 - Fonctions\Exercice 4 - Fonctions\obj\Debug\net10.0\refint\Exercice 4 - Fonctions.dll
+C:\Users\Administrateur\Exercices\Exo C#\Exercice 4 - Fonctions\Exercice 4 - Fonctions\obj\Debug\net10.0\Exercice 4 - Fonctions.pdb
+C:\Users\Administrateur\Exercices\Exo C#\Exercice 4 - Fonctions\Exercice 4 - Fonctions\obj\Debug\net10.0\Exercice 4 - Fonctions.genruntimeconfig.cache
+C:\Users\Administrateur\Exercices\Exo C#\Exercice 4 - Fonctions\Exercice 4 - Fonctions\obj\Debug\net10.0\ref\Exercice 4 - Fonctions.dll

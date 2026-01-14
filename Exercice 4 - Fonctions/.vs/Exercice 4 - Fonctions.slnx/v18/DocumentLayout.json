@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrateur\\Exercices\\Exo C#\\Exercice 4 - Fonctions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28DBB994-4739-383C-1C57-CAC292A767FF}|Exercice 4 - Fonctions\\Exercice 4 - Fonctions.csproj|c:\\users\\administrateur\\exercices\\exo c#\\exercice 4 - fonctions\\exercice 4 - fonctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DBB994-4739-383C-1C57-CAC292A767FF}|Exercice 4 - Fonctions\\Exercice 4 - Fonctions.csproj|solutionrelative:exercice 4 - fonctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Exercices\\Exo C#\\Exercice 4 - Fonctions\\Exercice 4 - Fonctions\\Program.cs",
+              "RelativeDocumentMoniker": "Exercice 4 - Fonctions\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Exercices\\Exo C#\\Exercice 4 - Fonctions\\Exercice 4 - Fonctions\\Program.cs",
+              "RelativeToolTip": "Exercice 4 - Fonctions\\Program.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAAAuwAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T13:44:36.857Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

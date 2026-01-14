@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrateur\\Exercices\\Exo C#\\Exo Fonction - Salarier\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0C4C7F-5613-422C-977D-75330C4D3E7F}|Exo Fonction - Salarier\\Exo Fonction - Salarier.csproj|c:\\users\\administrateur\\exercices\\exo c#\\exo fonction - salarier\\exo fonction - salarier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E0C4C7F-5613-422C-977D-75330C4D3E7F}|Exo Fonction - Salarier\\Exo Fonction - Salarier.csproj|solutionrelative:exo fonction - salarier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0C4C7F-5613-422C-977D-75330C4D3E7F}|Exo Fonction - Salarier\\Exo Fonction - Salarier.csproj|c:\\users\\administrateur\\exercices\\exo c#\\exo fonction - salarier\\exo fonction - salarier\\salarie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E0C4C7F-5613-422C-977D-75330C4D3E7F}|Exo Fonction - Salarier\\Exo Fonction - Salarier.csproj|solutionrelative:exo fonction - salarier\\salarie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Exercices\\Exo C#\\Exo Fonction - Salarier\\Exo Fonction - Salarier\\Program.cs",
+              "RelativeDocumentMoniker": "Exo Fonction - Salarier\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Exercices\\Exo C#\\Exo Fonction - Salarier\\Exo Fonction - Salarier\\Program.cs",
+              "RelativeToolTip": "Exo Fonction - Salarier\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T13:28:50.196Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Salarie.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Exercices\\Exo C#\\Exo Fonction - Salarier\\Exo Fonction - Salarier\\Salarie.cs",
+              "RelativeDocumentMoniker": "Exo Fonction - Salarier\\Salarie.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Exercices\\Exo C#\\Exo Fonction - Salarier\\Exo Fonction - Salarier\\Salarie.cs",
+              "RelativeToolTip": "Exo Fonction - Salarier\\Salarie.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwB0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T13:36:22.336Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

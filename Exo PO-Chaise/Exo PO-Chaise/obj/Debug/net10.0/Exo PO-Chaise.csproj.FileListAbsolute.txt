@@ -1,0 +1,15 @@
+C:\Users\Administrateur\Exercices\Exo C#\Exo PO-Chaise\Exo PO-Chaise\obj\Debug\net10.0\Exo PO-Chaise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Exercices\Exo C#\Exo PO-Chaise\Exo PO-Chaise\obj\Debug\net10.0\Exo PO-Chaise.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Exercices\Exo C#\Exo PO-Chaise\Exo PO-Chaise\obj\Debug\net10.0\Exo PO-Chaise.AssemblyInfo.cs
+C:\Users\Administrateur\Exercices\Exo C#\Exo PO-Chaise\Exo PO-Chaise\obj\Debug\net10.0\Exo PO-Chaise.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Exercices\Exo C#\Exo PO-Chaise\Exo PO-Chaise\obj\Debug\net10.0\Exo PO-Chaise.sourcelink.json
+C:\Users\Administrateur\Exercices\Exo C#\Exo PO-Chaise\Exo PO-Chaise\bin\Debug\net10.0\Exo PO-Chaise.exe
+C:\Users\Administrateur\Exercices\Exo C#\Exo PO-Chaise\Exo PO-Chaise\bin\Debug\net10.0\Exo PO-Chaise.deps.json
+C:\Users\Administrateur\Exercices\Exo C#\Exo PO-Chaise\Exo PO-Chaise\bin\Debug\net10.0\Exo PO-Chaise.runtimeconfig.json
+C:\Users\Administrateur\Exercices\Exo C#\Exo PO-Chaise\Exo PO-Chaise\bin\Debug\net10.0\Exo PO-Chaise.dll
+C:\Users\Administrateur\Exercices\Exo C#\Exo PO-Chaise\Exo PO-Chaise\bin\Debug\net10.0\Exo PO-Chaise.pdb
+C:\Users\Administrateur\Exercices\Exo C#\Exo PO-Chaise\Exo PO-Chaise\obj\Debug\net10.0\Exo PO-Chaise.dll
+C:\Users\Administrateur\Exercices\Exo C#\Exo PO-Chaise\Exo PO-Chaise\obj\Debug\net10.0\refint\Exo PO-Chaise.dll
+C:\Users\Administrateur\Exercices\Exo C#\Exo PO-Chaise\Exo PO-Chaise\obj\Debug\net10.0\Exo PO-Chaise.pdb
+C:\Users\Administrateur\Exercices\Exo C#\Exo PO-Chaise\Exo PO-Chaise\obj\Debug\net10.0\Exo PO-Chaise.genruntimeconfig.cache
+C:\Users\Administrateur\Exercices\Exo C#\Exo PO-Chaise\Exo PO-Chaise\obj\Debug\net10.0\ref\Exo PO-Chaise.dll

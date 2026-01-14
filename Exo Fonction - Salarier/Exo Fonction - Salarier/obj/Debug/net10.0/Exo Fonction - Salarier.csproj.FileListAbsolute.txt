@@ -1,0 +1,15 @@
+C:\Users\Administrateur\Exercices\Exo C#\Exo Fonction - Salarier\Exo Fonction - Salarier\bin\Debug\net10.0\Exo Fonction - Salarier.exe
+C:\Users\Administrateur\Exercices\Exo C#\Exo Fonction - Salarier\Exo Fonction - Salarier\bin\Debug\net10.0\Exo Fonction - Salarier.deps.json
+C:\Users\Administrateur\Exercices\Exo C#\Exo Fonction - Salarier\Exo Fonction - Salarier\bin\Debug\net10.0\Exo Fonction - Salarier.runtimeconfig.json
+C:\Users\Administrateur\Exercices\Exo C#\Exo Fonction - Salarier\Exo Fonction - Salarier\bin\Debug\net10.0\Exo Fonction - Salarier.dll
+C:\Users\Administrateur\Exercices\Exo C#\Exo Fonction - Salarier\Exo Fonction - Salarier\bin\Debug\net10.0\Exo Fonction - Salarier.pdb
+C:\Users\Administrateur\Exercices\Exo C#\Exo Fonction - Salarier\Exo Fonction - Salarier\obj\Debug\net10.0\Exo Fonction - Salarier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Exercices\Exo C#\Exo Fonction - Salarier\Exo Fonction - Salarier\obj\Debug\net10.0\Exo Fonction - Salarier.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Exercices\Exo C#\Exo Fonction - Salarier\Exo Fonction - Salarier\obj\Debug\net10.0\Exo Fonction - Salarier.AssemblyInfo.cs
+C:\Users\Administrateur\Exercices\Exo C#\Exo Fonction - Salarier\Exo Fonction - Salarier\obj\Debug\net10.0\Exo Fonction - Salarier.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Exercices\Exo C#\Exo Fonction - Salarier\Exo Fonction - Salarier\obj\Debug\net10.0\Exo Fonction - Salarier.sourcelink.json
+C:\Users\Administrateur\Exercices\Exo C#\Exo Fonction - Salarier\Exo Fonction - Salarier\obj\Debug\net10.0\Exo Fonction - Salarier.dll
+C:\Users\Administrateur\Exercices\Exo C#\Exo Fonction - Salarier\Exo Fonction - Salarier\obj\Debug\net10.0\refint\Exo Fonction - Salarier.dll
+C:\Users\Administrateur\Exercices\Exo C#\Exo Fonction - Salarier\Exo Fonction - Salarier\obj\Debug\net10.0\Exo Fonction - Salarier.pdb
+C:\Users\Administrateur\Exercices\Exo C#\Exo Fonction - Salarier\Exo Fonction - Salarier\obj\Debug\net10.0\Exo Fonction - Salarier.genruntimeconfig.cache
+C:\Users\Administrateur\Exercices\Exo C#\Exo Fonction - Salarier\Exo Fonction - Salarier\obj\Debug\net10.0\ref\Exo Fonction - Salarier.dll

@@ -1,0 +1,15 @@
+C:\Users\Administrateur\Exercices\Exo C#\Mastermind\Mastermind\bin\Debug\net10.0\Mastermind.exe
+C:\Users\Administrateur\Exercices\Exo C#\Mastermind\Mastermind\bin\Debug\net10.0\Mastermind.deps.json
+C:\Users\Administrateur\Exercices\Exo C#\Mastermind\Mastermind\bin\Debug\net10.0\Mastermind.runtimeconfig.json
+C:\Users\Administrateur\Exercices\Exo C#\Mastermind\Mastermind\bin\Debug\net10.0\Mastermind.dll
+C:\Users\Administrateur\Exercices\Exo C#\Mastermind\Mastermind\bin\Debug\net10.0\Mastermind.pdb
+C:\Users\Administrateur\Exercices\Exo C#\Mastermind\Mastermind\obj\Debug\net10.0\Mastermind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Exercices\Exo C#\Mastermind\Mastermind\obj\Debug\net10.0\Mastermind.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Exercices\Exo C#\Mastermind\Mastermind\obj\Debug\net10.0\Mastermind.AssemblyInfo.cs
+C:\Users\Administrateur\Exercices\Exo C#\Mastermind\Mastermind\obj\Debug\net10.0\Mastermind.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Exercices\Exo C#\Mastermind\Mastermind\obj\Debug\net10.0\Mastermind.sourcelink.json
+C:\Users\Administrateur\Exercices\Exo C#\Mastermind\Mastermind\obj\Debug\net10.0\Mastermind.dll
+C:\Users\Administrateur\Exercices\Exo C#\Mastermind\Mastermind\obj\Debug\net10.0\refint\Mastermind.dll
+C:\Users\Administrateur\Exercices\Exo C#\Mastermind\Mastermind\obj\Debug\net10.0\Mastermind.pdb
+C:\Users\Administrateur\Exercices\Exo C#\Mastermind\Mastermind\obj\Debug\net10.0\Mastermind.genruntimeconfig.cache
+C:\Users\Administrateur\Exercices\Exo C#\Mastermind\Mastermind\obj\Debug\net10.0\ref\Mastermind.dll

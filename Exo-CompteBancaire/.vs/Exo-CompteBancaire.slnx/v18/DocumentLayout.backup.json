@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrateur\\Exercices\\Exo C#\\Exo-CompteBancaire\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E15DE8C-118B-41DC-8731-3EAEB80F4221}|Exo-CompteBancaire\\Exo-CompteBancaire.csproj|c:\\users\\administrateur\\exercices\\exo c#\\exo-comptebancaire\\exo-comptebancaire\\comptebancaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E15DE8C-118B-41DC-8731-3EAEB80F4221}|Exo-CompteBancaire\\Exo-CompteBancaire.csproj|solutionrelative:exo-comptebancaire\\comptebancaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E15DE8C-118B-41DC-8731-3EAEB80F4221}|Exo-CompteBancaire\\Exo-CompteBancaire.csproj|c:\\users\\administrateur\\exercices\\exo c#\\exo-comptebancaire\\exo-comptebancaire\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E15DE8C-118B-41DC-8731-3EAEB80F4221}|Exo-CompteBancaire\\Exo-CompteBancaire.csproj|solutionrelative:exo-comptebancaire\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E15DE8C-118B-41DC-8731-3EAEB80F4221}|Exo-CompteBancaire\\Exo-CompteBancaire.csproj|c:\\users\\administrateur\\exercices\\exo c#\\exo-comptebancaire\\exo-comptebancaire\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E15DE8C-118B-41DC-8731-3EAEB80F4221}|Exo-CompteBancaire\\Exo-CompteBancaire.csproj|solutionrelative:exo-comptebancaire\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E15DE8C-118B-41DC-8731-3EAEB80F4221}|Exo-CompteBancaire\\Exo-CompteBancaire.csproj|c:\\users\\administrateur\\exercices\\exo c#\\exo-comptebancaire\\exo-comptebancaire\\comptecourant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E15DE8C-118B-41DC-8731-3EAEB80F4221}|Exo-CompteBancaire\\Exo-CompteBancaire.csproj|solutionrelative:exo-comptebancaire\\comptecourant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E15DE8C-118B-41DC-8731-3EAEB80F4221}|Exo-CompteBancaire\\Exo-CompteBancaire.csproj|c:\\users\\administrateur\\exercices\\exo c#\\exo-comptebancaire\\exo-comptebancaire\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E15DE8C-118B-41DC-8731-3EAEB80F4221}|Exo-CompteBancaire\\Exo-CompteBancaire.csproj|solutionrelative:exo-comptebancaire\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E15DE8C-118B-41DC-8731-3EAEB80F4221}|Exo-CompteBancaire\\Exo-CompteBancaire.csproj|c:\\users\\administrateur\\exercices\\exo c#\\exo-comptebancaire\\exo-comptebancaire\\comptepayant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E15DE8C-118B-41DC-8731-3EAEB80F4221}|Exo-CompteBancaire\\Exo-CompteBancaire.csproj|solutionrelative:exo-comptebancaire\\comptepayant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E15DE8C-118B-41DC-8731-3EAEB80F4221}|Exo-CompteBancaire\\Exo-CompteBancaire.csproj|c:\\users\\administrateur\\exercices\\exo c#\\exo-comptebancaire\\exo-comptebancaire\\ihm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E15DE8C-118B-41DC-8731-3EAEB80F4221}|Exo-CompteBancaire\\Exo-CompteBancaire.csproj|solutionrelative:exo-comptebancaire\\ihm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E15DE8C-118B-41DC-8731-3EAEB80F4221}|Exo-CompteBancaire\\Exo-CompteBancaire.csproj|c:\\users\\administrateur\\exercices\\exo c#\\exo-comptebancaire\\exo-comptebancaire\\compteepargne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E15DE8C-118B-41DC-8731-3EAEB80F4221}|Exo-CompteBancaire\\Exo-CompteBancaire.csproj|solutionrelative:exo-comptebancaire\\compteepargne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Exercices\\Exo C#\\Exo-CompteBancaire\\Exo-CompteBancaire\\Client.cs",
+              "RelativeDocumentMoniker": "Exo-CompteBancaire\\Client.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Exercices\\Exo C#\\Exo-CompteBancaire\\Exo-CompteBancaire\\Client.cs",
+              "RelativeToolTip": "Exo-CompteBancaire\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T13:48:07.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Operation.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Exercices\\Exo C#\\Exo-CompteBancaire\\Exo-CompteBancaire\\Operation.cs",
+              "RelativeDocumentMoniker": "Exo-CompteBancaire\\Operation.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Exercices\\Exo C#\\Exo-CompteBancaire\\Exo-CompteBancaire\\Operation.cs",
+              "RelativeToolTip": "Exo-CompteBancaire\\Operation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T13:48:21.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ComptePayant.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Exercices\\Exo C#\\Exo-CompteBancaire\\Exo-CompteBancaire\\ComptePayant.cs",
+              "RelativeDocumentMoniker": "Exo-CompteBancaire\\ComptePayant.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Exercices\\Exo C#\\Exo-CompteBancaire\\Exo-CompteBancaire\\ComptePayant.cs",
+              "RelativeToolTip": "Exo-CompteBancaire\\ComptePayant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T13:47:30.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Exercices\\Exo C#\\Exo-CompteBancaire\\Exo-CompteBancaire\\Program.cs",
+              "RelativeDocumentMoniker": "Exo-CompteBancaire\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Exercices\\Exo C#\\Exo-CompteBancaire\\Exo-CompteBancaire\\Program.cs",
+              "RelativeToolTip": "Exo-CompteBancaire\\Program.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAcwNUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T13:43:06.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompteBancaire.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Exercices\\Exo C#\\Exo-CompteBancaire\\Exo-CompteBancaire\\CompteBancaire.cs",
+              "RelativeDocumentMoniker": "Exo-CompteBancaire\\CompteBancaire.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Exercices\\Exo C#\\Exo-CompteBancaire\\Exo-CompteBancaire\\CompteBancaire.cs",
+              "RelativeToolTip": "Exo-CompteBancaire\\CompteBancaire.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T13:47:13.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompteCourant.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Exercices\\Exo C#\\Exo-CompteBancaire\\Exo-CompteBancaire\\CompteCourant.cs",
+              "RelativeDocumentMoniker": "Exo-CompteBancaire\\CompteCourant.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Exercices\\Exo C#\\Exo-CompteBancaire\\Exo-CompteBancaire\\CompteCourant.cs",
+              "RelativeToolTip": "Exo-CompteBancaire\\CompteCourant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T13:47:55.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ihm.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Exercices\\Exo C#\\Exo-CompteBancaire\\Exo-CompteBancaire\\ihm.cs",
+              "RelativeDocumentMoniker": "Exo-CompteBancaire\\ihm.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Exercices\\Exo C#\\Exo-CompteBancaire\\Exo-CompteBancaire\\ihm.cs",
+              "RelativeToolTip": "Exo-CompteBancaire\\ihm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T10:47:07.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CompteEpargne.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Exercices\\Exo C#\\Exo-CompteBancaire\\Exo-CompteBancaire\\CompteEpargne.cs",
+              "RelativeDocumentMoniker": "Exo-CompteBancaire\\CompteEpargne.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Exercices\\Exo C#\\Exo-CompteBancaire\\Exo-CompteBancaire\\CompteEpargne.cs",
+              "RelativeToolTip": "Exo-CompteBancaire\\CompteEpargne.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T13:47:44.82Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Exercice 4 - Fonctions/1.0.0": {
+        "runtime": {
+          "Exercice 4 - Fonctions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercice 4 - Fonctions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

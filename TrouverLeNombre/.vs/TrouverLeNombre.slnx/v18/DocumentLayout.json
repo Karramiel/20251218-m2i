@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrateur\\Exercices\\Exo C#\\TrouverLeNombre\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{001CC5A3-8203-26F4-C843-6FED611DFFE5}|TrouverLeNombre\\TrouverLeNombre.csproj|c:\\users\\administrateur\\exercices\\exo c#\\trouverlenombre\\trouverlenombre\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001CC5A3-8203-26F4-C843-6FED611DFFE5}|TrouverLeNombre\\TrouverLeNombre.csproj|solutionrelative:trouverlenombre\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Exercices\\Exo C#\\TrouverLeNombre\\TrouverLeNombre\\Program.cs",
+              "RelativeDocumentMoniker": "TrouverLeNombre\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Exercices\\Exo C#\\TrouverLeNombre\\TrouverLeNombre\\Program.cs",
+              "RelativeToolTip": "TrouverLeNombre\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T08:48:49.443Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

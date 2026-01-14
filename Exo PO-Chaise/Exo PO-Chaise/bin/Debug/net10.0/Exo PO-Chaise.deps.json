@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Exo PO-Chaise/1.0.0": {
+        "runtime": {
+          "Exo PO-Chaise.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exo PO-Chaise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

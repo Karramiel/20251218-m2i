@@ -1,0 +1,15 @@
+C:\Users\Administrateur\Exercices\Exo C#\TrouverLeNombre\TrouverLeNombre\bin\Debug\net10.0\TrouverLeNombre.exe
+C:\Users\Administrateur\Exercices\Exo C#\TrouverLeNombre\TrouverLeNombre\bin\Debug\net10.0\TrouverLeNombre.deps.json
+C:\Users\Administrateur\Exercices\Exo C#\TrouverLeNombre\TrouverLeNombre\bin\Debug\net10.0\TrouverLeNombre.runtimeconfig.json
+C:\Users\Administrateur\Exercices\Exo C#\TrouverLeNombre\TrouverLeNombre\bin\Debug\net10.0\TrouverLeNombre.dll
+C:\Users\Administrateur\Exercices\Exo C#\TrouverLeNombre\TrouverLeNombre\bin\Debug\net10.0\TrouverLeNombre.pdb
+C:\Users\Administrateur\Exercices\Exo C#\TrouverLeNombre\TrouverLeNombre\obj\Debug\net10.0\TrouverLeNombre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Exercices\Exo C#\TrouverLeNombre\TrouverLeNombre\obj\Debug\net10.0\TrouverLeNombre.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Exercices\Exo C#\TrouverLeNombre\TrouverLeNombre\obj\Debug\net10.0\TrouverLeNombre.AssemblyInfo.cs
+C:\Users\Administrateur\Exercices\Exo C#\TrouverLeNombre\TrouverLeNombre\obj\Debug\net10.0\TrouverLeNombre.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Exercices\Exo C#\TrouverLeNombre\TrouverLeNombre\obj\Debug\net10.0\TrouverLeNombre.sourcelink.json
+C:\Users\Administrateur\Exercices\Exo C#\TrouverLeNombre\TrouverLeNombre\obj\Debug\net10.0\TrouverLeNombre.dll
+C:\Users\Administrateur\Exercices\Exo C#\TrouverLeNombre\TrouverLeNombre\obj\Debug\net10.0\refint\TrouverLeNombre.dll
+C:\Users\Administrateur\Exercices\Exo C#\TrouverLeNombre\TrouverLeNombre\obj\Debug\net10.0\TrouverLeNombre.pdb
+C:\Users\Administrateur\Exercices\Exo C#\TrouverLeNombre\TrouverLeNombre\obj\Debug\net10.0\TrouverLeNombre.genruntimeconfig.cache
+C:\Users\Administrateur\Exercices\Exo C#\TrouverLeNombre\TrouverLeNombre\obj\Debug\net10.0\ref\TrouverLeNombre.dll
