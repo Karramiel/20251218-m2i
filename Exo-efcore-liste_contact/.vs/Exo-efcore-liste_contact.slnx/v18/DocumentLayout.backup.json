@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrateur\\Exercices\\Exo C#\\Exo-efcore-liste_contact\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2CC29A-B807-F188-C5AA-9FB468F51998}|Exo-efcore-liste_contact\\Exo-efcore-liste_contact.csproj|c:\\users\\administrateur\\exercices\\exo c#\\exo-efcore-liste_contact\\exo-efcore-liste_contact\\contactsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2CC29A-B807-F188-C5AA-9FB468F51998}|Exo-efcore-liste_contact\\Exo-efcore-liste_contact.csproj|solutionrelative:exo-efcore-liste_contact\\contactsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2CC29A-B807-F188-C5AA-9FB468F51998}|Exo-efcore-liste_contact\\Exo-efcore-liste_contact.csproj|c:\\users\\administrateur\\exercices\\exo c#\\exo-efcore-liste_contact\\exo-efcore-liste_contact\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2CC29A-B807-F188-C5AA-9FB468F51998}|Exo-efcore-liste_contact\\Exo-efcore-liste_contact.csproj|solutionrelative:exo-efcore-liste_contact\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2CC29A-B807-F188-C5AA-9FB468F51998}|Exo-efcore-liste_contact\\Exo-efcore-liste_contact.csproj|c:\\users\\administrateur\\exercices\\exo c#\\exo-efcore-liste_contact\\exo-efcore-liste_contact\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2CC29A-B807-F188-C5AA-9FB468F51998}|Exo-efcore-liste_contact\\Exo-efcore-liste_contact.csproj|solutionrelative:exo-efcore-liste_contact\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2CC29A-B807-F188-C5AA-9FB468F51998}|Exo-efcore-liste_contact\\Exo-efcore-liste_contact.csproj|c:\\users\\administrateur\\exercices\\exo c#\\exo-efcore-liste_contact\\exo-efcore-liste_contact\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2CC29A-B807-F188-C5AA-9FB468F51998}|Exo-efcore-liste_contact\\Exo-efcore-liste_contact.csproj|solutionrelative:exo-efcore-liste_contact\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Exercices\\Exo C#\\Exo-efcore-liste_contact\\Exo-efcore-liste_contact\\ContactRepository.cs",
+              "RelativeDocumentMoniker": "Exo-efcore-liste_contact\\ContactRepository.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Exercices\\Exo C#\\Exo-efcore-liste_contact\\Exo-efcore-liste_contact\\ContactRepository.cs",
+              "RelativeToolTip": "Exo-efcore-liste_contact\\ContactRepository.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAawG4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T14:30:50.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactsDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Exercices\\Exo C#\\Exo-efcore-liste_contact\\Exo-efcore-liste_contact\\ContactsDBContext.cs",
+              "RelativeDocumentMoniker": "Exo-efcore-liste_contact\\ContactsDBContext.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Exercices\\Exo C#\\Exo-efcore-liste_contact\\Exo-efcore-liste_contact\\ContactsDBContext.cs",
+              "RelativeToolTip": "Exo-efcore-liste_contact\\ContactsDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T14:30:18.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "contact.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Exercices\\Exo C#\\Exo-efcore-liste_contact\\Exo-efcore-liste_contact\\contact.cs",
+              "RelativeDocumentMoniker": "Exo-efcore-liste_contact\\contact.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Exercices\\Exo C#\\Exo-efcore-liste_contact\\Exo-efcore-liste_contact\\contact.cs",
+              "RelativeToolTip": "Exo-efcore-liste_contact\\contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T10:22:34.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Exercices\\Exo C#\\Exo-efcore-liste_contact\\Exo-efcore-liste_contact\\Program.cs",
+              "RelativeDocumentMoniker": "Exo-efcore-liste_contact\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Exercices\\Exo C#\\Exo-efcore-liste_contact\\Exo-efcore-liste_contact\\Program.cs",
+              "RelativeToolTip": "Exo-efcore-liste_contact\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T10:16:58.825Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
